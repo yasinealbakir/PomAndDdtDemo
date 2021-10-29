@@ -1,0 +1,25 @@
+[INFO ] 2021-10-29 14:14:05.501 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 14:14:06.082 [main] Log - Tests is starting with chrome browser
+[INFO ] 2021-10-29 14:14:07.737 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 14:14:07.737 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 14:14:07.936 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 14:14:08.918 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 14:14:09.171 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 14:14:09.781 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 14:14:10.209 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 14:14:10.568 [main] Log - Verifying test result
+[INFO ] 2021-10-29 14:14:10.572 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 14:14:10.574 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 14:14:10.708 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 14:14:11.030 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 14:14:11.061 [main] Log - Tests is starting with firefox browser
+[INFO ] 2021-10-29 14:14:13.481 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 14:14:13.481 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 14:14:13.481 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 14:14:13.935 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 14:14:14.078 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 14:14:14.504 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 14:14:15.445 [main] Log - Verifying test result
+[INFO ] 2021-10-29 14:14:15.445 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 14:14:15.445 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 14:14:15.474 [main] Log - Tests has been finished
