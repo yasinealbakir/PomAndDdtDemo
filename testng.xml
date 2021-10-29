@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilties.Listener"/>
+        <listener class-name="utilties.AnnotationTransformer"/>
+    </listeners>
+    <test name="ContactPage Test">
+        <parameter name = "browser" value="chrome"/>
+        <classes>
+            <class name="tests.ContactPageTest"/>
+        </classes>
+    </test>
+    <test name="UserDefinePage Test">
+        <parameter name = "browser" value="firefox"/>
+        <classes>
+            <class name="tests.HomePageTest"/>
+        </classes>
+    </test>
+</suite>

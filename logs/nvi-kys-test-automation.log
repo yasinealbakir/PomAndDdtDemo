@@ -1,0 +1,711 @@
+[INFO ] 2021-10-29 10:36:30.165 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 10:36:30.766 [main] Log - Tests is starting
+[INFO ] 2021-10-29 10:36:33.862 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 10:36:33.862 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 10:36:34.076 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 10:36:35.174 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 10:36:35.435 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 10:36:36.045 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 10:36:36.590 [main] Log - Verifying test result
+[INFO ] 2021-10-29 10:36:36.597 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 10:36:36.599 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 10:36:36.740 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 10:58:00.387 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 10:58:00.903 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 10:58:00.965 [main] Log - Tests is starting
+[INFO ] 2021-10-29 10:58:02.498 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 10:58:02.498 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 10:58:02.675 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 10:58:03.926 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 10:58:04.173 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 10:58:04.805 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 10:58:05.330 [main] Log - Verifying test result
+[INFO ] 2021-10-29 10:58:05.336 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 10:58:05.338 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 10:58:05.461 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 10:58:05.557 [main] Log - Tests is starting
+[INFO ] 2021-10-29 10:58:06.378 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 10:58:06.378 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 10:58:06.378 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 10:58:07.331 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 10:58:07.560 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 10:58:08.193 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 10:58:08.626 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 10:58:08.974 [main] Log - Verifying test result
+[ERROR] 2021-10-29 10:58:08.992 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 10:59:15.111 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 10:59:15.674 [main] Log - Tests is starting
+[INFO ] 2021-10-29 10:59:17.257 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 10:59:17.257 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 10:59:17.413 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 10:59:18.302 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 10:59:18.554 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 10:59:19.182 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 10:59:19.619 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 10:59:19.983 [main] Log - Verifying test result
+[INFO ] 2021-10-29 10:59:19.988 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 10:59:19.990 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 10:59:20.141 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:00:35.040 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:00:35.540 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:00:37.144 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:00:37.144 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:00:37.326 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:00:38.234 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:00:38.481 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:00:39.076 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 11:00:39.505 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 11:00:39.877 [main] Log - Verifying test result
+[INFO ] 2021-10-29 11:00:39.882 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 11:00:39.884 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 11:00:39.999 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:00:40.304 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:00:40.335 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:00:41.163 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:00:41.163 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:00:41.163 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:00:42.057 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:00:42.284 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:00:42.877 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 11:00:43.394 [main] Log - Verifying test result
+[INFO ] 2021-10-29 11:00:43.396 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 11:00:43.396 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 11:00:43.421 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:02:40.337 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:02:40.915 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:02:42.553 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:02:42.553 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:02:42.736 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:02:43.666 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:02:43.920 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:02:44.542 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 11:02:44.968 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 11:02:45.348 [main] Log - Verifying test result
+[ERROR] 2021-10-29 11:02:45.371 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:02:45.876 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:02:45.908 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:02:46.718 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:02:46.719 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:02:46.719 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:02:48.023 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:02:48.245 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:02:48.910 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 11:02:49.415 [main] Log - Verifying test result
+[INFO ] 2021-10-29 11:02:49.418 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 11:02:49.418 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 11:02:49.450 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:21:27.004 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:21:27.535 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:21:29.143 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:21:29.143 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:21:29.314 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:21:29.437 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:21:29.546 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:21:29.631 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:21:30.448 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:21:30.448 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:21:30.448 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:21:30.463 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:21:30.593 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:21:30.924 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:21:30.955 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:21:31.764 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:21:31.764 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:21:31.764 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:21:31.888 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:21:31.903 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:21:32.006 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:21:32.810 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:21:32.810 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:21:32.810 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:21:32.826 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:21:32.954 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:22:20.223 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:22:20.801 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:22:22.439 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:22:22.439 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:22:22.610 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:22:42.040 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:22:55.160 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:22:55.206 [main] Log - sendToCommentFeature Test is starting
+[WARN ] 2021-10-29 11:22:55.206 [main] Log - sendToCommentFeature Test is skipped
+[ERROR] 2021-10-29 11:22:55.363 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:23:18.259 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:23:18.337 [main] Log - sendToCommentFeature Test is starting
+[WARN ] 2021-10-29 11:23:18.337 [main] Log - sendToCommentFeature Test is skipped
+[ERROR] 2021-10-29 11:23:18.509 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:29:33.666 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:29:34.166 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:29:35.741 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:29:35.742 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:29:35.914 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:29:36.041 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:29:36.166 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:29:36.238 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:29:37.069 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:29:37.069 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:29:37.069 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:29:37.085 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:29:37.224 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:29:37.546 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:29:37.562 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:29:38.390 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:29:38.390 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:29:38.391 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:29:38.500 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:29:38.531 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:29:38.614 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:29:39.435 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:29:39.437 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:29:39.437 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:29:39.444 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:29:39.565 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:31:20.421 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:31:20.952 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:31:22.521 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:31:22.522 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:31:22.698 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:31:22.816 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:31:22.941 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:31:23.025 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:31:23.812 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:31:23.812 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:31:23.812 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:31:23.828 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:31:23.964 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:31:24.276 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:31:24.292 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:31:25.121 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:31:25.121 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:31:25.121 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:31:25.273 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:31:25.305 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:31:25.383 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:31:26.227 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:31:26.227 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:31:26.227 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:31:26.227 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:31:26.360 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:32:50.941 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:32:51.504 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:32:53.052 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:32:53.054 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:32:53.229 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:32:54.203 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:32:54.456 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:32:55.068 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 11:32:55.498 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 11:32:55.869 [main] Log - Verifying test result
+[INFO ] 2021-10-29 11:32:55.877 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 11:32:55.879 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 11:32:56.007 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:32:56.319 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:32:56.350 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:32:57.195 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:32:57.195 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:32:57.195 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 11:32:58.196 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 11:32:58.423 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 11:32:59.188 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 11:32:59.693 [main] Log - Verifying test result
+[INFO ] 2021-10-29 11:32:59.695 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 11:32:59.695 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 11:32:59.721 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:51:59.169 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:51:59.702 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:52:02.565 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:52:02.566 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:52:02.745 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:52:02.861 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:52:02.971 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:52:03.059 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:52:03.910 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:52:03.910 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:52:03.910 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:52:03.910 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:52:04.034 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:52:04.372 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:52:04.403 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:52:05.207 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:52:05.207 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:52:05.207 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:52:05.322 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:52:05.336 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:52:05.447 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:52:06.282 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:52:06.282 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:52:06.282 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:52:06.282 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:52:06.418 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:56:01.853 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:56:02.371 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:56:03.905 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:56:03.911 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:56:04.095 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:56:04.239 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:56:04.390 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:56:04.472 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:56:05.301 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:56:05.301 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:56:05.301 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:56:05.301 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:56:05.446 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:56:05.776 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:56:05.808 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:56:06.623 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:56:06.623 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:56:06.623 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:56:06.716 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:56:06.747 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:56:06.846 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:56:07.619 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:56:07.619 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:56:07.619 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:56:07.619 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:56:07.740 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:57:50.755 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:57:51.335 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:57:52.953 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:57:52.953 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:57:53.125 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:57:53.251 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:57:53.396 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:57:53.487 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:57:54.309 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:57:54.309 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:57:54.309 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:57:54.309 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:57:54.461 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:57:54.806 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:57:54.822 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:57:55.674 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:57:55.675 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:57:55.675 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:57:55.788 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:57:55.821 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:57:55.894 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:57:56.701 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:57:56.701 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:57:56.701 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:57:56.701 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:57:56.833 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:58:24.329 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:58:24.901 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:58:26.514 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:58:26.530 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:58:26.705 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:58:26.817 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 11:58:26.958 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:58:27.027 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:58:27.854 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 11:58:27.854 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 11:58:27.854 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:58:27.854 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 11:58:28.007 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:58:28.322 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 11:58:28.354 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:58:29.192 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:58:29.192 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:58:29.192 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 11:58:29.310 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 11:58:29.325 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 11:58:29.452 [main] Log - Tests is starting
+[INFO ] 2021-10-29 11:58:30.235 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 11:58:30.235 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 11:58:30.235 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 11:58:30.235 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 11:58:30.357 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:02:14.944 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:02:15.478 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:02:17.141 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:02:17.141 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:02:17.318 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:02:17.442 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:02:17.567 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:02:17.661 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:02:18.466 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:02:18.466 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:02:18.466 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:02:18.466 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:02:18.599 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:02:18.929 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:02:18.945 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:02:19.758 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:02:19.758 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:02:19.758 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:02:19.860 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:02:19.891 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:02:19.993 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:02:20.785 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:02:20.785 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:02:20.785 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:02:20.785 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:02:20.907 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:04:58.455 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:04:58.957 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:05:00.555 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:05:00.556 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:05:00.726 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:05:00.857 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:05:00.974 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:05:01.060 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:05:01.858 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:05:01.858 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:05:01.858 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:05:01.858 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:05:01.991 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:05:02.275 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:05:02.306 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:05:03.126 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:05:03.126 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:05:03.126 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:05:03.237 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:05:03.261 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:05:03.363 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:05:04.150 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:05:04.150 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:05:04.150 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:05:04.150 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:05:04.282 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:05:42.422 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:05:42.979 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:05:44.579 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:05:44.595 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:05:44.768 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 12:06:23.852 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:06:24.417 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:06:26.086 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:06:26.102 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:06:26.290 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 12:06:41.153 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:06:41.749 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:06:43.450 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:06:43.450 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:06:43.666 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 12:06:53.448 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:06:53.987 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:06:55.663 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:06:55.663 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:06:55.836 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 12:08:06.400 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:08:06.977 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:08:08.613 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:08:08.614 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:08:08.789 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:08:08.910 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:08:09.036 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:08:09.118 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:08:09.907 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:08:09.907 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:08:09.907 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:08:09.907 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:08:10.043 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:08:10.381 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:08:10.428 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:08:11.239 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:08:11.239 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:08:11.239 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:08:11.359 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:08:11.375 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:08:11.485 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:08:12.275 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:08:12.275 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:08:12.275 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:08:12.275 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:08:12.410 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:09:15.373 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:09:15.954 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:09:17.562 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:09:17.563 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:09:17.741 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:09:58.676 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:11:50.391 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:11:50.454 [main] Log - sendToCommentFeature Test is starting
+[WARN ] 2021-10-29 12:11:50.454 [main] Log - sendToCommentFeature Test is skipped
+[ERROR] 2021-10-29 12:11:50.626 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:12:13.506 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:12:14.056 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:12:15.718 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:12:15.734 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:12:15.906 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:12:16.029 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:12:16.155 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:12:16.235 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:12:17.073 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:12:17.073 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:12:17.073 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:12:17.088 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:12:17.212 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:12:17.496 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:12:17.527 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:12:18.340 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:12:18.340 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:12:18.340 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:12:18.463 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:12:18.479 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:12:18.577 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:12:19.366 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:12:19.366 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:12:19.366 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:12:19.381 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:12:19.504 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:13:32.179 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:13:32.712 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:13:34.270 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:13:34.270 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:13:34.421 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:13:34.582 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:13:34.707 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:13:34.778 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:13:35.620 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:13:35.620 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:13:35.620 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:13:35.642 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:13:35.780 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:13:36.095 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:13:36.126 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:13:36.946 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:13:36.946 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:13:36.946 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:13:37.099 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:13:37.115 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:13:37.209 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:13:38.049 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:13:38.049 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:13:38.050 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:13:38.051 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:13:38.182 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:14:31.632 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:14:32.149 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:14:33.766 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:14:33.766 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:14:33.920 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 12:17:27.555 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:17:28.089 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:17:29.606 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:17:29.606 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:17:29.779 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:17:29.907 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:17:30.017 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:17:30.105 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:17:30.904 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:17:30.904 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:17:30.904 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:17:30.904 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:17:31.045 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:17:31.371 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:17:31.402 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:17:32.212 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:17:32.212 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:17:32.212 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:17:32.348 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:17:32.369 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:17:32.441 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:17:33.225 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:17:33.225 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:17:33.225 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:17:33.225 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:17:33.351 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:18:25.516 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:18:26.081 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:18:27.668 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:18:27.669 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:18:27.832 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:18:27.967 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:18:28.092 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:18:28.154 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:18:28.983 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:18:28.983 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:18:28.983 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:18:28.998 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:18:29.123 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:18:29.453 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:18:29.485 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:18:30.282 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:18:30.282 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:18:30.282 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:18:30.410 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:18:30.425 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:18:30.524 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:18:31.364 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:18:31.364 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:18:31.364 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:18:31.373 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:18:31.515 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:21:41.771 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:21:42.308 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:21:43.896 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:21:43.896 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:21:44.056 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:21:44.187 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 12:21:44.313 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:21:44.400 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:21:45.238 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 12:21:45.238 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 12:21:45.238 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:21:45.253 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 12:21:45.393 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:21:45.682 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 12:21:45.698 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:21:46.531 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:21:46.531 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:21:46.531 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 12:21:46.654 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 12:21:46.670 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 12:21:46.766 [main] Log - Tests is starting
+[INFO ] 2021-10-29 12:21:47.550 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 12:21:47.550 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 12:21:47.550 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 12:21:47.566 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 12:21:47.700 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:35:14.029 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:35:14.591 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:35:18.872 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:35:18.872 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:35:19.090 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 13:35:19.222 [main] Log - sendToCommentFeature Test is skipped
+[INFO ] 2021-10-29 13:35:19.347 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:35:19.428 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:35:20.292 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:35:20.292 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:35:20.292 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 13:35:20.308 [main] Log - sendToCommentFeature Test failed
+[INFO ] 2021-10-29 13:35:20.446 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:35:20.751 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:35:20.767 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:35:21.599 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:35:21.599 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:35:21.599 [main] Log - Login Page is opening
+[WARN ] 2021-10-29 13:35:21.723 [main] Log - userDefineFeature Test is skipped
+[INFO ] 2021-10-29 13:35:21.739 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:35:21.836 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:35:22.648 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:35:22.648 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:35:22.648 [main] Log - Login Page is opening
+[ERROR] 2021-10-29 13:35:22.648 [main] Log - userDefineFeature Test failed
+[INFO ] 2021-10-29 13:35:22.797 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:39:17.156 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:39:17.642 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:39:19.227 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:39:19.227 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:39:19.388 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:39:20.340 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:39:20.600 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:39:21.221 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 13:39:21.634 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 13:39:21.997 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:39:22.006 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:39:22.008 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 13:39:22.130 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:39:22.438 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:39:22.470 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:39:23.267 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:39:23.267 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:39:23.267 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:39:24.171 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:39:24.402 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:39:25.043 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 13:39:25.552 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:39:25.554 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:39:25.554 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 13:39:25.581 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:49:57.646 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:49:58.180 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:49:59.768 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:49:59.768 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:49:59.941 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:50:00.818 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:50:01.071 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:50:01.664 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 13:50:02.085 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 13:50:02.466 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:50:02.474 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:50:02.476 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 13:50:02.589 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:50:02.890 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:50:02.921 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:50:03.727 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:50:03.727 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:50:03.727 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:50:04.634 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:50:04.862 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:50:05.476 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 13:50:05.983 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:50:05.985 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:50:05.986 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 13:50:06.012 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:50:36.173 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:50:36.691 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:50:38.283 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:50:38.283 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:50:38.440 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:50:40.453 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:50:40.702 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:50:41.305 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 13:50:41.744 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 13:50:42.113 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:50:42.118 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:50:42.120 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 13:50:42.235 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:50:42.567 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:50:42.599 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:50:43.367 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:50:43.367 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:50:43.367 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:50:44.312 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:50:44.537 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:50:45.147 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 13:50:45.645 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:50:45.648 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:50:45.648 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 13:50:45.674 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:51:26.995 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:51:27.560 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:51:33.249 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:51:33.249 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:51:33.405 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:51:34.254 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:51:34.427 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:51:34.867 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 13:51:35.195 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 13:51:35.457 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:51:35.473 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:51:35.481 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 13:51:35.593 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:51:36.302 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:51:36.318 [main] Log - Tests is starting
+[INFO ] 2021-10-29 13:51:37.135 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:51:37.135 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:51:37.135 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:51:38.027 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:51:38.262 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:51:38.848 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 13:51:39.348 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:51:39.350 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:51:39.350 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 13:51:39.373 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:52:55.275 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:52:55.871 [main] Log - Tests is starting with firefoxbrowser
+[INFO ] 2021-10-29 13:52:59.011 [main] Log - sendToCommentFeature Test is starting
+[INFO ] 2021-10-29 13:52:59.011 [main] Log - sendToCommentFeature do test
+[INFO ] 2021-10-29 13:52:59.168 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:52:59.765 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:52:59.937 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:53:00.378 [main] Log - The contact page is opening
+[INFO ] 2021-10-29 13:53:00.495 [main] Log - Filling out the contact form
+[INFO ] 2021-10-29 13:53:00.755 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:53:00.768 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:53:00.768 [main] Log - sendToCommentFeature Test is succeed
+[INFO ] 2021-10-29 13:53:00.872 [main] Log - Tests has been finished
+[INFO ] 2021-10-29 13:53:01.683 [main] Log - Test data is being prepared.
+[INFO ] 2021-10-29 13:53:01.698 [main] Log - Tests is starting with chromebrowser
+[INFO ] 2021-10-29 13:53:02.516 [main] Log - userDefineFeature Test is starting
+[INFO ] 2021-10-29 13:53:02.516 [main] Log - userDefineFeature do test
+[INFO ] 2021-10-29 13:53:02.516 [main] Log - Login Page is opening
+[INFO ] 2021-10-29 13:53:03.420 [main] Log - Filling out the username and password fields
+[INFO ] 2021-10-29 13:53:03.654 [main] Log - Going to Home Page
+[INFO ] 2021-10-29 13:53:04.245 [main] Log - Filling out the user define form
+[INFO ] 2021-10-29 13:53:04.772 [main] Log - Verifying test result
+[INFO ] 2021-10-29 13:53:04.774 [main] Log - Writing to excel test result
+[INFO ] 2021-10-29 13:53:04.774 [main] Log - userDefineFeature Test is succeed
+[INFO ] 2021-10-29 13:53:04.798 [main] Log - Tests has been finished
