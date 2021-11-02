@@ -14,7 +14,6 @@ import org.testng.annotations.Parameters;
 import pages.LoginPage;
 import utilties.Log;
 
-import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
 
@@ -42,6 +41,7 @@ public class BaseTest {
             WebDriverManager.chromedriver().setup();
             chromeOptions = new ChromeOptions();
             chromeOptions.setHeadless(false);
+            chromeOptions.addArguments("start-maximized");
             driver = new ChromeDriver(chromeOptions);
         } else if (browser.equals(browsers.firefox)) {
             WebDriverManager.firefoxdriver().setup();
@@ -62,9 +62,6 @@ public class BaseTest {
     public void setUp(browsers browser) {
         Log.info("Tests is starting with " + browser + " browser");
         selectBrowser(browser);
-        driver.manage().window().maximize();
-        driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         loginPage = new LoginPage(driver);
     }
     //endregion
